@@ -1,0 +1,579 @@
+@media (max-width: 1180px) and (min-width: 992px) {
+
+  .service .row img {
+    width: 300px;
+  }
+
+  .service .image img {
+    width: 30px;
+    height: 30px;
+  }
+
+  .service .image-button img {
+    width: 25px;
+    height: 25px;
+  }
+
+  .choose .box {
+    margin-left: 90px;
+  }
+
+  .testimonials .info .img {
+    margin-inline-start: 10pc;
+  }
+
+  .question .card-header .btn {
+    height: 45px;
+  }
+
+  .blog .image-contain {
+    width: 300px;
+  }
+
+  .blog .image-contain img {
+    width: 300px;
+  }
+}
+
+@media (max-width: 991px) and (min-width: 769px) {
+  .navbar .social {
+    margin-inline-start: 15px;
+  }
+
+  .navbar .navbar-nav {
+    width: 35%;
+    position: absolute;
+    top: 60%;
+    right: 0px;
+    background-color: #181a27af;
+    border-radius: 3px;
+  }
+
+  .navbar .navbar-nav li {
+    margin: auto;
+  }
+
+  .navbar .hide {
+    visibility: hidden;
+  }
+
+  .navbar .nav-image img {
+    display: block;
+  }
+
+  header {
+    padding: 80px 0px 30px;
+  }
+
+  header h1 {
+    font-size: 40px;
+  }
+
+  .services .contain {
+    width: 75%;
+  }
+}
+
+@media (max-width: 768px) and (min-width: 577px) {
+  .navbar .social {
+    margin-inline-start: 15px;
+  }
+
+  .navbar .navbar-nav {
+    width: 35%;
+    position: absolute;
+    top: 60%;
+    right: 0px;
+    background-color: #181a27af;
+    border-radius: 3px;
+  }
+
+  .navbar .navbar-nav li {
+    margin: auto;
+  }
+
+  .navbar .hide {
+    visibility: hidden;
+  }
+
+  .navbar .nav-image img {
+    display: block;
+  }
+
+  header {
+    padding: 80px 0px 30px;
+  }
+
+  header h1 {
+    width: 80%;
+    font-size: 40px;
+  }
+
+  header .row {
+    display: none;
+  }
+
+  .service .image {
+    position: absolute;
+    top: -8%;
+    left: 0%;
+  }
+
+  .service .box {
+    width: 75%;
+  }
+
+  .blog .box {
+    width: 100%;
+  }
+
+  .blog .box h1 {
+    font-size: 20px;
+  }
+
+  .services .contain {
+    width: 90%;
+  }
+}
+
+@media (max-width: 576px) and (min-width: 355px) {
+
+  .header h1,
+  .header h2,
+  .about .info h1,
+  .service .info h1 {
+    font-size: 25px;
+  }
+
+  .heading p,
+  header p {
+    font-size: 15px;
+    width: 95% !important;
+  }
+
+  .navbar-section {
+    height: 230px;
+  }
+
+  .navbar .social {
+    margin-inline-start: 15px;
+  }
+
+  .navbar .navbar-nav {
+    width: 35%;
+    position: absolute;
+    top: 60%;
+    right: 0px;
+    background-color: #181a27af;
+    border-radius: 3px;
+  }
+
+  .navbar .navbar-nav li {
+    margin: auto;
+  }
+
+  .navbar .hide,
+  .form .show {
+    visibility: hidden;
+  }
+
+  .navbar .nav-image img,
+  .contact-us .btn {
+    display: block;
+  }
+
+  header {
+    padding: 80px 0px 50px;
+  }
+
+  header h1 {
+    width: 80%;
+    font-size: 30px;
+  }
+
+  header .row {
+    display: none;
+  }
+
+  .about .info .progres-bar h4 {
+    margin-inline-end: 8pc;
+  }
+
+  .about .info .images .image {
+    width: 40px;
+    height: 40px;
+  }
+
+  .about .info .images p {
+    font-size: 12px;
+  }
+
+  .about .info .images img {
+    width: 30px;
+    height: 30px;
+    margin-top: calc((100% / 2) - 15px);
+  }
+
+  .about .contact button {
+    margin-inline-start: 10px;
+  }
+
+  .about .man {
+    width: 10%;
+  }
+
+  .about form {
+    background-color: #23283b5b;
+    width: 80%;
+  }
+
+  .service .row img {
+    width: 300px;
+  }
+
+  .service .image {
+    width: 35px;
+    height: 35px;
+    left: 0%;
+  }
+
+  .service .image img {
+    width: 22px;
+    height: 22px;
+  }
+
+  .service .box {
+    width: 70%;
+  }
+
+  .service .image-button {
+    width: 200px;
+  }
+
+  .service .image-button img {
+    width: 25px;
+    height: 25px;
+  }
+
+  .section .row,
+  .services .contain,
+  .blog .box {
+    width: 100%;
+  }
+
+  .section .number p,
+  .services .contain h1,
+  .blog .box h1 {
+    font-size: 20px;
+  }
+
+  .section .number span,
+  .section .box1 p,
+  .section .box2 p {
+    font-size: 25px;
+  }
+
+  .choose .image img {
+    width: 250px;
+    height: 250px;
+    margin-left: 0px;
+  }
+
+  .choose .images img {
+    width: 100px;
+    height: 80px;
+  }
+
+  .choose .info h1 {
+    font-size: 18px;
+  }
+
+  .choose .info p,
+  .testimonials .pragraph,
+  .choose .column p {
+    font-size: 10px;
+  }
+
+  .choose .column .image-contain {
+    width: 40px;
+    height: 40px;
+  }
+
+  .choose .column img {
+    width: 30px;
+    height: 30px;
+  }
+
+  .choose .box {
+    width: 100%;
+    margin-left: 0px;
+  }
+
+  .choose .column .info {
+    width: 100%;
+    margin-left: 10px;
+  }
+
+  .choose .column h3 {
+    font-size: 15px;
+  }
+
+  .choose .border1 {
+    height: 95px;
+    margin-inline-start: 20px;
+  }
+
+  .testimonials .info .img {
+    margin-inline-start: 30px;
+  }
+
+  .question .card-header .btn {
+    height: 45px;
+  }
+
+  .services .contain button {
+    width: 90%;
+  }
+
+  .contact-us form {
+    width: 100%;
+    position: absolute;
+    padding: 20px 30px;
+    top: -90px;
+    left: -60px;
+    background-color: #181a27;
+    border-radius: 3px;
+    z-index: 9;
+  }
+
+  .contact-us .map iframe {
+    width: 280px;
+    height: 260px;
+  }
+
+  .blog .image-contain,
+  .blog .image-contain img {
+    width: 300px;
+  }
+}
+
+@media (max-width: 354px) {
+
+  .header h1,
+  .header h2,
+  .about .info h1,
+  .service .info h1 {
+    font-size: 25px;
+  }
+
+  .heading p,
+  header p {
+    font-size: 15px;
+    width: 95% !important;
+  }
+
+  .navbar-section {
+    height: 230px;
+  }
+
+  .navbar .social {
+    margin-inline-start: 15px;
+  }
+
+  .navbar .navbar-nav {
+    width: 35%;
+    position: absolute;
+    top: 60%;
+    right: 0px;
+    background-color: #181a27af;
+    border-radius: 3px;
+  }
+
+  .navbar .navbar-nav li {
+    margin: auto;
+  }
+
+  .navbar .hide,
+  .form .show {
+    visibility: hidden;
+  }
+
+  .navbar .nav-image img,
+  .contact-us .btn {
+    display: block;
+  }
+
+  header {
+    padding: 80px 0px 50px;
+  }
+
+  header h1 {
+    width: 80%;
+    font-size: 30px;
+  }
+
+  header .row {
+    display: none;
+  }
+
+  .about .info .progres-bar h4 {
+    margin-inline-end: 8pc;
+  }
+
+  .about .info .images .image {
+    width: 40px;
+    height: 40px;
+  }
+
+  .about .info .images p {
+    font-size: 12px;
+  }
+
+  .about .info .images img {
+    width: 30px;
+    height: 30px;
+    margin-top: calc((100% / 2) - 15px);
+  }
+
+  .about .contact button {
+    margin-inline-start: 10px;
+  }
+
+  .about .man {
+    width: 10%;
+  }
+
+  .about form {
+    background-color: #23283b5b;
+    width: 80%;
+  }
+
+  .service .row img {
+    width: 300px;
+  }
+
+  .service .image {
+    width: 35px;
+    height: 35px;
+    left: 0%;
+  }
+
+  .service .image img {
+    width: 22px;
+    height: 22px;
+  }
+
+  .service .box {
+    width: 70%;
+  }
+
+  .service .image-button {
+    width: 200px;
+  }
+
+  .service .image-button img {
+    width: 25px;
+    height: 25px;
+  }
+
+  .section .row,
+  .services .contain,
+  .blog .box {
+    width: 100%;
+  }
+
+  .section .number p,
+  .services .contain h1,
+  .blog .box h1 {
+    font-size: 20px;
+  }
+
+  .section .number span,
+  .section .box1 p,
+  .section .box2 p {
+    font-size: 25px;
+  }
+
+  .choose .image img {
+    width: 250px;
+    height: 250px;
+    margin-left: 0px;
+  }
+
+  .choose .images img {
+    width: 100px;
+    height: 80px;
+  }
+
+  .choose .info h1 {
+    font-size: 18px;
+  }
+
+  .choose .info p,
+  .testimonials .pragraph,
+  .choose .column p {
+    font-size: 10px;
+  }
+
+  .choose .column .image-contain {
+    width: 40px;
+    height: 40px;
+  }
+
+  .choose .column img {
+    width: 30px;
+    height: 30px;
+  }
+
+  .choose .box {
+    width: 100%;
+    margin-left: 0px;
+  }
+
+  .choose .column .info {
+    width: 100%;
+    margin-left: 10px;
+  }
+
+  .choose .column h3 {
+    font-size: 15px;
+  }
+
+  .choose .border1 {
+    height: 95px;
+    margin-inline-start: 20px;
+  }
+
+  .testimonials .info .img {
+    margin-inline-start: 30px;
+  }
+
+  .question .card-header .btn {
+    height: 45px;
+  }
+
+  .services .contain button {
+    width: 90%;
+  }
+
+  .contact-us form {
+    width: 100%;
+    position: absolute;
+    padding: 20px 30px;
+    top: -90px;
+    left: -60px;
+    background-color: #181a27;
+    border-radius: 3px;
+    z-index: 9;
+  }
+
+  .contact-us .map iframe {
+    width: 280px;
+    height: 260px;
+  }
+
+  .blog .image-contain,
+  .blog .image-contain img {
+    width: 300px;
+  }
+}
